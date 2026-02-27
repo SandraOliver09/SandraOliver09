@@ -1,24 +1,35 @@
-### Sandra Oliver
+👩🏻‍💻 Sandra Oliver
 
-**CIÊNCIAS CONTÁBEIS**
+🎓 Ciências Contábeis
+🔎 Auditoria Fiscal
+⚖️ Ciências Jurídicas – Ministério Público
+💻 Desenvolvedora Back-End PHP (em conclusão)
+☕ Desenvolvedora Back-End Java (em conclusão)
 
-**AUDITORIA FISCAL**
 
-**CIÊNCIAS JURIDICAS MINISTÉRIO PÚBLICO**
 
-**`DESENVOLVEDORA BACK END PHP`** (EM CONCLUSÃO)
+🚀 Sobre Mim
 
-**DESENVOLVEDORA DE BACK END JAVA**(EM CONCLUSAO)
+Profissional com sólida formação em Ciências Contábeis, Auditoria Fiscal e Ciências Jurídicas (Ministério Público), atualmente em formação como Desenvolvedora Back-End PHP e Java.
 
-##'Estou estudando Unity e esse é meu portfolio'
+Uno conhecimento técnico em programação com profundo entendimento de regras de negócio nas áreas tributária, financeira e jurídica — um diferencial estratégico para sistemas corporativos, governamentais e empresariais.
 
-### 🎅🏿 Linguagens e Tecnologias
+
+
+### 🎅🏿 Linguagens | Tecnologias |Auditoria Fiscal | Contábil | Juiza Arbitral
 <ul>
-        <li> UNITY </li>
+        <li> UNIVERSIDADE CRUZEIRO DO SUL </li>
+        <liDesenvolvedora Back-End PHP> </li>
+        <li> Desenvolvedora Back-End Java </li>
+        <li> Auditoria Fiscal </li>
+        <li> Grafotecnica </li>
+        <li>Contablidade</li>
+        <li>Juiza Arbitral</li>
+        <li>Tecnologia</li>
   
 </ul>
 
-itch.io : https://rlgustavo.itch.io/
+
 
 
 <img 
