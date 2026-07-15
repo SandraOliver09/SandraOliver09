@@ -3,14 +3,18 @@
 🎓 Ciências Contábeis
 🔎 Auditoria Fiscal
 ⚖️ Ciências Jurídicas – Ministério Público
-💻 Desenvolvedora Back-End PHP (em conclusão)
-☕ Desenvolvedora Back-End Java (em conclusão)
+💻 Desenvolvedora Back-End PHP (concluido)
+☕ Desenvolvedora Back-End Java (concluido)
+   React Back End Avança Tech(concluido)
+   .Net Back End avança Tech(concluido)
+   React + IA Avança Tech( em conclusão)
+   
 
 
 
 🚀 Sobre Mim
 
-Profissional com sólida formação em Ciências Contábeis, Auditoria Fiscal e Ciências Jurídicas (Ministério Público), atualmente em formação como Desenvolvedora Back-End PHP e Java.
+Profissional com sólida formação em Ciências Contábeis, Auditoria Fiscal e Ciências Jurídicas (Ministério Público), atualmente em formação como Desenvolvedora Back-End PHP , Java React , >NET e React + IA.
 
 Uno conhecimento técnico em programação com profundo entendimento de regras de negócio nas áreas tributária, financeira e jurídica — um diferencial estratégico para sistemas corporativos, governamentais e empresariais.
 
@@ -19,8 +23,10 @@ Uno conhecimento técnico em programação com profundo entendimento de regras d
 ### 🎅🏿 Linguagens | Tecnologias |Auditoria Fiscal | Contábil | Juiza Arbitral
 <ul>
         <li> UNIVERSIDADE CRUZEIRO DO SUL </li>
-        <liDesenvolvedora Back-End PHP> </li>
+        <li> Desenvolvedora Back-End PHP> </li>
         <li> Desenvolvedora Back-End Java </li>
+         <li> Desenvolvedora Back-End React </li>
+         <li> Desenvolvedora Back-End .NET </li>
         <li> Auditoria Fiscal </li>
         <li> Grafotecnica </li>
         <li>Contablidade</li>
